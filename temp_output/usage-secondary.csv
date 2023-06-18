@@ -1,0 +1,70 @@
+row,name,username,branch,active_may,active_june,actionable_may,actionable_jun
+0,Ruby Ana Bernardo,rubyana.bernardo@upshot-partners.com,North Luzon Lower 2,False,False,None,None
+1,Darwin Reazon ,darwin.reazon@upshot.technology,Ayala Terraces,False,False,39: can start reading feedback from Hernani martin,None
+2,Hernani martin,hernani.martin@upshot-partners.com,Ayala Terraces,False,True,None,-
+3,Abhegail Visquera ,abhegail.visquera@upshot.technology,Ayala Terraces,True,False,-,None
+4,Armando Quizon,armando.quizon@upshot-partners.com,Commonwealth,True,False,-,None
+5,francisco.acayan,francisco.acayan@upshot.technology,Commonwealth,False,True,None,-
+6,Mary Jane Capalac,maryjane.capalac@upshot.technology,Commonwealth,False,True,None,-
+7,Lorna Mayo,lorna.mayo@upshot.technology,Commonwealth,False,True,None,-
+8,Jayson Andres,jayson.andres@upshot-partners.com,Commonwealth2,False,False,None,None
+9,Pepito Centino,pepito.centino@upshot.technology,Commonwealth2,False,False,None,None
+10,Rhealyn Aquino,rhealyn.aquino@upshot.technology,Commonwealth2,True,True,-,-
+11,Bernabe Oroyo ,bernabe.oroyojr@upshot.technology,Commonwealth2,True,True,-,-
+12,Remon dela cruz,remon.delacruz@upshot.technology,Commonwealth2,False,False,53: can start reading feedback from Jayson Andres,None
+13,Chrislyn Joy Cipres,chrislynjoy.cipres@upshot.technology,Dahlia Fairview,True,False,-,127: can start reading feedback from Raymond Fernando 
+14,Jonald zaballa,Jonald.zaballa@upshot.technology,Dahlia Fairview,True,False,-,None
+15,Mylene Cabidoy,mylene.cabidoy@upshot.technology,Dahlia Fairview,True,False,-,128: can start reading feedback from Raymond Fernando 
+16,Raymond Fernando ,raymond.fernando@upshot-partners.com,Dahlia Fairview,False,False,None,None
+17,MARKANTHONYORGEN,markanthony.orgen@upshot-partners.com,Ever Commonwealth,False,False,None,None
+18,Crisanto Yumul,crisanto.yumul@upshot.technology,Ever Commonwealth,True,False,-,None
+19,Kim obligar,kim.obligar@upshot.technology,Ever Commonwealth,False,False,23: can start reading feedback from MARKANTHONYORGEN,None
+20,Riezel Anne Requinto,riezelanne.requinto@upshot-partners.com,Fairview,False,False,None,None
+21,Leanyceldano,Leanycel.dano@upshot.technology,Fairview,True,True,-,-
+22,Christian Dave Villapando,christiandave.villapando@upshot.technology,Fairview,False,True,None,-
+23,William Modelo,william.modelo@upshot-partners.com,Fairview Centermall,True,False,-,None
+24,Christopher resurreccion,Christopher.resurreccion@upshot.technology,Fairview Centermall,False,False,28: can start reading feedback from William Modelo,None
+25,Julius Macabulit,julius.macabulit@upshot.technology,Fairview Centermall,True,False,-,140: can start reading feedback from William Modelo
+26,Shayne Marie Modesto,shaynemarie.modesto@upshot-partners.com,Rob Nova,False,False,None,None
+27,Jonaly Belando,jonaly.belando@upshot.technology,Rob Nova,True,True,-,-
+28,irone cabalse,irone.cabalse@upshot.technology,Rob Nova,False,True,None,-
+29,Ria Javier,ria.javier@upshot-partners.com,SM Fairview,True,False,-,None
+30,Arjay Periol,arjay.periol@upshot.technology,SM Fairview,True,False,-,None
+31,Gracielle Gabitan,gracielle.gabitan@upshot.technology,SM Fairview,True,False,-,133: can start reading feedback from Ria Javier
+32,Valentine Bino ,valentine.bino@upshot.technology,SM Fairview,False,False,None,None
+33,Ronaly Osera,ronaly.osera@upshot-partners.com,North Central 7,False,False,None,None
+34,Machelle Augustus Siruno,machelleaugustus.siruno@upshot-partners.com,Ali Mall,False,False,None,None
+35,Melanie Flores,melanie.flores@upshot.technology,Ali Mall,False,True,None,-
+36,Mary Joy Lopena,maryjoy.lopena@upshot.technology,Ali Mall,True,False,-,None
+37,Kris Aileen Pecardal,krisaileen.pecardal@upshot.technology,Anonas2,True,False,-,None
+38,Saramay Calaud,saramay.calaud@upshot-partners.com,Anonas2,False,False,None,None
+39,Randy T Macina,randy.macina@upshot.technology,Anonas2,False,False,87: can start reading feedback from Saramay Calaud,109: can start reading feedback from Saramay Calaud
+40,Joseleo Ninalga,joseleo.ninalga@upshot-partners.com,Araneta,False,False,None,None
+41,Gino,gino.gocatek@upshot.technology,Araneta,False,True,None,-
+42,Rafie Senobio,rafie.senobio@upshot.technology,Nagtahan,False,True,None,-
+43,Preizila Bonto,preizila.bonto@upshot.technology,Araneta,False,True,None,-
+44,Arcelie Indiola,arcelie.indiola@upshot-partners.com,Farmers Plaza,False,True,None,-
+45,Lito Netro,lito.netro@upshot.technology,Farmers Plaza,True,True,-,-
+46,Sarah jane Galicia,sarahjane.galicia@upshot.technology,Farmers Plaza,False,True,None,-
+47,Norwena Domingo,norwena.domingo@upshot.technology,Gateway,False,True,None,-
+48,Rosanna Lozada,rosanna.lozada@upshot-partners.com,Gateway,False,False,None,None
+49,Trixie T. Ramos,trixie.ramos@upshot-partners.com,Nagtahan,False,False,None,None
+50,Rosa Delacruz,Rosa.delacruz@upshot.technology,Nagtahan,False,True,None,-
+51,Jumar cayapas,jumar.cayapas@upshot.technology,Nagtahan,False,False,96: can start reading feedback from Trixie T. Ramos,None
+52,Anne Suzette,annesuzette.sotto@upshot-partners.com,Pureza,False,False,None,None
+53,Ralph sese,Ralphnino.sese@upshot.technology,Pureza,True,True,-,-
+54,Donna Mae Maguigad,donnamae.maguigad@upshot.technology,Pureza,False,False,94: can start reading feedback from Anne Suzette,None
+55,Ramil Quilaquil,ramil.quilaquil@upshot-partners.com,SM Sta Mesa,False,False,None,None
+56,Mary Grace Montemor,marygrace.montemor@upshot.technology,SM Sta Mesa,True,True,-,-
+57,reynaldoalverio,reynaldo.alverio@upshot.technology,SM Sta Mesa,True,False,-,None
+58,Jennifer Cariaga,jennifer.cariaga@upshot-partners.com,Telus Cubao,False,True,None,-
+59,AdrianGonzales,adrian.gonzales@upshot.technology,Telus Cubao,False,True,None,-
+60,Analyn Vitug,analyn.vitug@upshot.technology,Telus Cubao,False,False,None,113: can start reading feedback from Jennifer Cariaga
+61,Raven Test,ac@upshot-partners.com,,False,False,None,None
+62,RGM Upshot,rgm@upshot-partners.com,,False,False,None,None
+63,Raven 3,agm@upshot.technology,,False,False,None,None
+64,Rolan Upshot-Partners,rolanvc@upshot-partners.com,,False,False,None,None
+65,Danica Carillo,danica.carillo@upshot.technology,,True,True,-,-
+66,Alan Howell Paulino,alanhowell.paulino@upshot.technology,,False,False,89: can start reading feedback from Saramay Calaud,107: can start reading feedback from Saramay Calaud
+67,Revy Basaca,revy.basaca@upshot.technology,,False,True,None,-
+68,Cyra Castillo ,cyra.castillo@upshot.technology,,False,True,None,-
