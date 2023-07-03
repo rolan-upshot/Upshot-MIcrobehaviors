@@ -30,8 +30,11 @@ def was_active_as_primary_user(user: User, from_datetime: datetime, to_datetime:
     4. answered checklist (EMChecklistActual.datetime_stamp)
     5. closed out a feedback (CaptureFB.em_closed_journey_datetime)
     """
-    return started_or_closed_a_capture_fb(user, from_datetime, to_datetime) or active_in_entries(user, from_datetime, to_datetime) \
-        or sent_out_feedback(user, from_datetime, to_datetime) or active_in_reflection(user, from_datetime, to_datetime) or closed_journey(user, from_datetime, to_datetime)
+    return started_or_closed_a_capture_fb(user, from_datetime, to_datetime) or \
+        active_in_entries(user, from_datetime, to_datetime) or \
+        sent_out_feedback(user, from_datetime, to_datetime) or \
+        active_in_reflection(user, from_datetime, to_datetime) or \
+        closed_journey(user, from_datetime, to_datetime)
 
 
 def started_or_closed_a_capture_fb(user: User, from_datetime: datetime, to_datetime: datetime) -> bool:
@@ -121,7 +124,10 @@ def was_active_as_secondary_user(user: User, from_datetime: datetime, to_datetim
     active2discuss = active_to_discuss(user, from_datetime, to_datetime)
     active2assess = active_to_assess(user, from_datetime, to_datetime)
     active2closeout = active_to_closeout(user, from_datetime, to_datetime)
-    return active2start_or_end or active2discuss or active2assess or active2closeout
+    return active2start_or_end or \
+        active2discuss or \
+        active2assess or \
+        active2closeout
 
 
 def active_to_start_or_end(user: User, from_datetime: datetime, to_datetime: datetime) -> bool:
